@@ -1,4 +1,4 @@
-# here i'll write just about everything that is here and i did 
+# Patchy Foraging Task Data Pre-Processing
 
 This directory contains data and python notebooks for pre-processing patchy foraging task data from the Platt Lab.
 
