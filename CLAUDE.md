@@ -71,7 +71,7 @@ Processed data files follow step-based naming:
 
 ## Important Notes
 
-- Raw survey data (`total_data_vludwig.xlsx`) is password protected
+- Raw survey data (`survey_data.xlsx`) is password protected
 - Notebooks contain hardcoded absolute paths that may need updating
 - The `src/` and `tests/` directories are empty placeholders
 - Final datasets: `fADHD_final_groupDF_464.csv`, `464withcreativity.csv`
