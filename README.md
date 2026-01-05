@@ -8,11 +8,11 @@ David L. Barack\*, Vera U. Ludwig\*, Felipe Parodi, Nuwar Ahmed, Elizabeth M. Br
 
 \*Co-first authors
 
+<img src="docs/barack-ludwig-summary.jpeg" alt="Summary Figure" width="700">
+
 ## Abstract
 
 All mobile organisms forage for resources, choosing how and when to search for new opportunities by comparing current returns with the average for the environment. In humans, nomadic lifestyles favouring exploration have been associated with genetic mutations implicated in attention deficit hyperactivity disorder (ADHD), inviting the hypothesis that this condition may impact foraging decisions in the general population. Here we tested this pre-registered hypothesis by examining how human participants collected resources in an online foraging task. On every trial, participants chose either to continue to collect rewards from a depleting patch of resources or to replenish the patch. Participants also completed a well-validated ADHD self-report screening assessment at the end of sessions. Participants departed resource patches sooner when travel times between patches were shorter than when they were longer, as predicted by optimal foraging theory. Participants whose scores on the ADHD scale crossed the threshold for a positive screen departed patches significantly sooner than participants who did not meet this criterion. Participants meeting this threshold for ADHD also achieved higher reward rates than individuals who did not. Our findings suggest that ADHD attributes may confer foraging advantages in some environments and invite the possibility that this condition may reflect an adaptation favouring exploration over exploitation.
-
-![Summary Figure](docs/barack-ludwig-summary.jpeg)
 
 ## Repository Structure
 
