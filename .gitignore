@@ -1,7 +1,33 @@
-# Data files (contains participant data)
+# Data files (contains participant data - NEVER commit)
 data/
 amplio/
 results/
+
+# ALL CSV files (participant data)
+*.csv
+
+# Explicit PII file patterns (belt and suspenders)
+**/total_data_vludwig*
+**/*_vludwig*
+*.xlsx
+*.xls
+
+# Root-level data files
+foraging_db_clean.csv
+
+# Archive folder for deprecated code
+archive/
+
+# Legacy Python files (moved to archive/)
+cleandf.py
+fix_id.py
+frg_check.py
+frg.ipynb
+Untitled.ipynb
+
+# Temporary scripts
+fix_paths.py
+cleanup.sh
 
 # macOS
 .DS_Store

@@ -1,5 +1,10 @@
 # Attention deficits linked with proclivity to explore while foraging
 
+[![DOI](https://img.shields.io/badge/DOI-10.1098%2Frspb.2022.2584-blue)](https://doi.org/10.1098/rspb.2022.2584)
+[![Journal](https://img.shields.io/badge/Journal-Proc._R._Soc._B-green)](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.2584)
+
+**Paper:** [Barack, Ludwig, et al. (2024) *Proceedings of the Royal Society B*](https://doi.org/10.1098/rspb.2022.2584)
+
 Data preprocessing and analysis code for the foraging-ADHD study from the Platt Lab.
 
 ## Authors
@@ -30,8 +35,7 @@ All mobile organisms forage for resources, choosing how and when to search for n
 ├── amplio/                     # AMPLIO study data (not tracked in git)
 ├── results/                    # Output figures (not tracked in git)
 │   └── figures/
-├── src/                        # Source code modules
-└── tests/                      # Test files
+└── archive/                    # Deprecated code (not tracked in git)
 ```
 
 ## Data Processing Pipeline
@@ -71,3 +75,20 @@ All mobile organisms forage for resources, choosing how and when to search for n
 ## Data Availability
 
 Raw participant data is not included in this repository. Contact the authors for data access requests.
+
+## Citation
+
+If you use this code or data in your research, please cite:
+
+```bibtex
+@article{barack2024attention,
+  title={Attention deficits linked with proclivity to explore while foraging},
+  author={Barack, David L and Ludwig, Vera U and Parodi, Felipe and Ahmed, Nuwar and Brannon, Elizabeth M and Ramakrishnan, Arjun and Platt, Michael L},
+  journal={Proceedings of the Royal Society B},
+  volume={291},
+  number={2017},
+  pages={20222584},
+  year={2024},
+  publisher={The Royal Society}
+}
+```
