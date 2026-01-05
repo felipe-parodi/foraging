@@ -2,7 +2,7 @@
 data/
 amplio/
 results/
-
+CLAUDE.md
 # ALL CSV files (participant data)
 *.csv
 
